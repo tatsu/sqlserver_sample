@@ -1,0 +1,4 @@
+pyodbc  # ODBCドライバ
+xlrd  #EXCEL
+jupyter
+jupyterlab
